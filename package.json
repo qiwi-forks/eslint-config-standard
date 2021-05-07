@@ -57,6 +57,8 @@
     "url": "git://github.com/qiwi-forks/eslint-config-standard.git"
   },
   "scripts": {
+    "build": "npm run build:docs",
+    "build:docs": "mkdir -p docs && cp README.md docs/README.md",
     "lint": "eslint . --config=eslintrc.json",
     "test": "npm run lint && tape test/*.js"
   },
