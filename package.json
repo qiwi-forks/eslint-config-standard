@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-standard",
+  "name": "eslint-config-standard-qiwi",
   "description": "JavaScript Standard Style - ESLint Shareable Config",
   "version": "16.0.2",
   "author": {
@@ -8,7 +8,7 @@
     "url": "https://feross.org"
   },
   "bugs": {
-    "url": "https://github.com/standard/eslint-config-standard/issues"
+    "url": "https://github.com/qiwi-forks/eslint-config-standard/issues"
   },
   "devDependencies": {
     "eslint": "^7.25.0",
@@ -17,7 +17,7 @@
     "eslint-plugin-promise": "^5.1.0",
     "tape": "^5.2.2"
   },
-  "homepage": "https://github.com/standard/eslint-config-standard",
+  "homepage": "https://github.com/qiwi-forks/eslint-config-standard",
   "keywords": [
     "JavaScript Standard Style",
     "check",
@@ -47,14 +47,14 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "eslint": "^7.12.1",
+    "eslint": "^7.25.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1"
+    "eslint-plugin-promise": "^5.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/standard/eslint-config-standard.git"
+    "url": "git://github.com/qiwi-forks/eslint-config-standard.git"
   },
   "scripts": {
     "lint": "eslint . --config=eslintrc.json",
