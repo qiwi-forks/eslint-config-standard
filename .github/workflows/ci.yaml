@@ -91,7 +91,7 @@ jobs:
 
       - name: Compile
         run: |
-          npm build
+          npm run build
 
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v2
