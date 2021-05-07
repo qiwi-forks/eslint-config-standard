@@ -1,3 +1,10 @@
+## [16.0.3](https://github.com/qiwi-forks/eslint-config-standard/compare/v16.0.2...v16.0.3) (2021-05-07)
+
+
+### Bug Fixes
+
+* **deps:** up deps ([20e41c8](https://github.com/qiwi-forks/eslint-config-standard/commit/20e41c850fc3ae808b20195c377ed2edc205e814))
+
 # Change Log
 
 All notable changes to this project will be documented in the
