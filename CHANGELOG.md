@@ -1,3 +1,10 @@
+## [16.0.4](https://github.com/qiwi-forks/eslint-config-standard/compare/v16.0.3...v16.0.4) (2022-03-06)
+
+
+### Bug Fixes
+
+* fetch upstream, update deps ([f1e9dd5](https://github.com/qiwi-forks/eslint-config-standard/commit/f1e9dd5c53b5748a0ce4aae5aebf3818083385c2))
+
 ## [16.0.3](https://github.com/qiwi-forks/eslint-config-standard/compare/v16.0.2...v16.0.3) (2021-05-07)
 
 
