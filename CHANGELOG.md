@@ -1,3 +1,10 @@
+## [16.0.5](https://github.com/qiwi-forks/eslint-config-standard/compare/v16.0.4...v16.0.5) (2022-03-06)
+
+
+### Bug Fixes
+
+* update peer deps ([e4e89b5](https://github.com/qiwi-forks/eslint-config-standard/commit/e4e89b548d0dbd1914df07f6afca793028939ba7))
+
 ## [16.0.4](https://github.com/qiwi-forks/eslint-config-standard/compare/v16.0.3...v16.0.4) (2022-03-06)
 
 
